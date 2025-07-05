@@ -1,18 +1,19 @@
+👋 Hi, I'm Muhammad Umair Afzal
+
 🎯 Aspiring Data Scientist | Financial Mathematics Enthusiast | Power BI & Python Explorer
 
-Hi! I'm Muhammad Umair Afzal — a data-driven problem solver with a background in Financial Mathematics and a growing passion for technology. I build smart, practical solutions that help businesses make better decisions using data.
+I'm passionate about solving real-world problems using data. With a strong foundation in Financial Mathematics and experience in Business Intelligence tools, I'm expanding into Python and Machine Learning to deliver smarter, data-driven business solutions.
 
-🔍 Areas of Interest:
-- 📊 Business Intelligence (Power BI, DAX)
-- 🧮 Financial Modeling & Quantitative Analysis
-- 🐍 Python for Data Analytics & Machine Learning
-- 📈 Forecasting, Optimization, and Predictive Modeling
+🔧 Tools & Skills:
+- 📊 Power BI, DAX, Excel
+- 🧮 Financial Modeling, Data Analytics
+- 🐍 Python (Pandas, NumPy, Scikit-learn)
+- 💼 SQL, Business Forecasting, Data Visualization
 
-💡 Currently learning: Machine Learning, Python (Pandas, NumPy, Scikit-learn), SQL
+📘 Projects
+- Power BI Sales Dashboard *(Check Repos)*
 
-📂 Here you’ll find:
-- Real-world dashboards and financial models
-- Analytics projects solving business problems
-- Learning experiments with data science tools
+---
 
-Let’s turn data into decisions. 🚀
+🚀 Currently learning: Python for Data Science, Machine Learning  
+📬 Let's connect and collaborate on data-powered ideas!
